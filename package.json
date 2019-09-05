@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayham-haddad/wordpress-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayham-haddad/wordpress-test/issues"
+  },
+  "homepage": "https://github.com/ayham-haddad/wordpress-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
